@@ -1,0 +1,17 @@
+#ifndef INCLUDED_GLOBALS
+#define INCLUDED_GLOBALS
+
+#define GAME_NAME "Dragons"
+#define DISPLAY_WIDTH 800
+#define DISPLAY_HEIGHT 640
+#define SPRITE_WIDTH 32
+#define SPRITE_HEIGHT 32
+#define FRAMES_PER_SECOND 60
+#define MAP_X 60
+#define MAP_Y 60
+#define SCROLL_X_MAX 750
+#define SCROLL_X_MIN 50
+#define SCROLL_Y_MAX 550
+#define SCROLL_Y_MIN 50
+
+#endif
